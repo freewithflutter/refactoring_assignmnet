@@ -1,16 +1,3 @@
-# refactoring_assignment
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-02-05 at 13 34 53](https://user-images.githubusercontent.com/75591730/106990126-fd851c00-67b6-11eb-8112-c206a6fb9f21.png)
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+기존 진행하고 있는 프로젝트에는 Stream 때문에 리팩토링에 제한이 있어서 새로운 UI를 구현했습니다.
